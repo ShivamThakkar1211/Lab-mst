@@ -1,4 +1,12 @@
 # Lab-mst
+
+### HI There
+👂 My name is shivam And my uid is 22BDO10025
+
+## NOTE: Before using this command git branch we need to commit at least once to the master branch other wise we need to use this 
+# "git checkout -b branchName"
+
+
 ### 1. Use git branch to see the two branches that are relevant for this exercise
 ![Screenshot 2024-03-13 101823](https://github.com/ShivamThakkar1211/Lab-mst/assets/115493910/59a0b50a-5c12-4e95-be0f-9a4aefbd13c4)
 
@@ -51,5 +59,17 @@
 
 ### 18.	Use git diff mybranch master to see the difference between the two branches.
 ![Screenshot 2024-03-13 103001](https://github.com/ShivamThakkar1211/Lab-mst/assets/115493910/35bafe2a-e7e2-4134-98e3-0af8f868121c)
+
+
+# My Practical Sheet 
+![WhatsApp Image 2024-03-13 at 11 03 43_f45823c7](https://github.com/ShivamThakkar1211/Lab-mst/assets/115493910/09ace001-2a1d-49f9-956c-f7e4583e8aa3)
+
+![WhatsApp Image 2024-03-13 at 11 03 44_044cd1e1](https://github.com/ShivamThakkar1211/Lab-mst/assets/115493910/d6e3e6a0-bc1f-49c7-991d-6086d81bcfbc)
+
+![WhatsApp Image 2024-03-13 at 11 03 44_5deb0532](https://github.com/ShivamThakkar1211/Lab-mst/assets/115493910/ff523484-6965-4b2b-9e92-6c70676ab746)
+
+
+
+
 
 
